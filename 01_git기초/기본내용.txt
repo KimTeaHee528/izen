@@ -1,0 +1,40 @@
+------------윈도우 기본 환경설정-----------
+제어판-프로그램-윈도우즈 기능 켜기/끄기- 텔넷 클라이언트 체크
+
+----------드라이브 종류-------------
+c - 프로그램 설치(포멧은 c만 시킴)
+d - 데이터 저장(factory & factory_down폴더 만들기)
+
+----------기타---------------
+크롬사용
+팀뷰어(spm528@naver.com/!/김태희0528)
+슬랙
+git / github(g메일)
+오라클 - 자바11 (spmm/Sl!)
+수강생 출석부
+https://docs.google.com/spreadsheets/d/1y-gGnv31PZ_PxTU_yuc_QGcT3cuIGwyejW0YZ4ubyOQ/edit#gid=0
+
+---------github--------------------
+https://github.com/settings/tokens 에서 토큰 생성
+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
+KimTeaHee528
+
+https://github.com/KimTeaHee528/html_tr/blob/main/.gitignore
+에서 코드 바꾸기
+.settings/
+.git/
+.project
+
+------------자바버전확인-----------------
+javac -version
+java -version
+
+
+------------자바 버젼변경----------------
+내컴퓨터 속성-고급설정-환경변수-시스템변수새로만들기
+-변수이름(java_home)&변수값(C:\Program Files\Java\jdk-11.0.15.1)
+-path 더블클릭-텍스트편집-변수값 끝에 ;%JAVA_HOME%\bin;
+나중에 home에있는 path만 버전병경
+
+
+-------------sts - git -----------------------
