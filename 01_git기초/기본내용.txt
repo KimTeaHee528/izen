@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1y-gGnv31PZ_PxTU_yuc_QGcT3cuIGwyejW0YZ4ub
 
 ---------github--------------------
 https://github.com/settings/tokens 에서 토큰 생성
-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
+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
 KimTeaHee528
 
 https://github.com/KimTeaHee528/html_tr/blob/main/.gitignore
@@ -37,4 +37,4 @@ java -version
 나중에 home에있는 path만 버전병경
 
 
--------------sts - git -----------------------ss
+-------------sts - git -----------------------
