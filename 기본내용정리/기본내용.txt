@@ -50,7 +50,11 @@ java -version
  
  
  ----------------이클립스 자바세팅-------------------
-
+#custom
+.settings/
+.git/
+.project
+.classpath
 
 
 
