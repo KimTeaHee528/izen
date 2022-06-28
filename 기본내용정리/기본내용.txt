@@ -50,6 +50,7 @@ java -version
  
  
  ----------------이클립스 자바세팅-------------------
+github 코드 제일 아래에 삽입
 #custom
 .settings/
 .git/
