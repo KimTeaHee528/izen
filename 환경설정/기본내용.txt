@@ -63,4 +63,9 @@ github에서 자바 선택 후 프로젝트 생성
 sts git Repositories에서 동록하고 임포트하기
 임포트할때 밑에서 두번째 선택
 
+-----------------------getbootstrap-------------------------
+ui만들지말고 getbootstrap.com가서 사오기
+
+
+
 
