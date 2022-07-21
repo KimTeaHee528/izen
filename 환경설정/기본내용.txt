@@ -124,3 +124,21 @@ Fontawsome
 
 6. 엔드포인트 복사해서 어디다 저장해두기(kthdb1.co1rir7dwdnn.ap-northeast-2.rds.amazonaws.com)
 7. 워크밴치에 복사한거 넣어서 연결
+
+
+
+------------북마크-----------------
+http://slither.io/
+https://docs.google.com/spreadsheets/d/1y-gGnv31PZ_PxTU_yuc_QGcT3cuIGwyejW0YZ4ubyOQ/edit#gid=0
+https://github.com/
+https://www.codingfactory.net/11880
+https://www.figma.com/files/recent?fuid=1126423462109391487
+https://getbootstrap.com/
+https://www.google.com/search?gs_ssp=eJzj4tDP1TewLMkoNGD04nmzvOH1og1vNux7tWMDAHXZDBc&q=%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0&oq=%EC%A7%80%EB%A2%B0&aqs=chrome.1.69i57j46i39j0i20i263i512j0i131i433i512j0i512l2j0i131i433i512j0i512l2.3631j0j15&sourceid=chrome&ie=UTF-8
+http://dino-typing.com/keyboard.php?lvl=1&lng=e
+https://stackoverflow.com/questions/32355009/changing-pagination-colour-bootstrap
+https://knulab.com/archives/810#HTML-Lists-Navigation-10
+https://us-west-1.console.aws.amazon.com/console/home?region=us-west-1#
+https://codepen.io/jangka44/pen/vbGoBm
+
+
