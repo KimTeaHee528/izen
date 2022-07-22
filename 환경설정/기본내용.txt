@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1y-gGnv31PZ_PxTU_yuc_QGcT3cuIGwyejW0YZ4ub
 
 ---------github--------------------
 https://github.com/settings/tokens 에서 토큰 생성
-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
+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
 KimTeaHee528
 
 https://github.com/KimTeaHee528/html_tr/blob/main/.gitignore
