@@ -22,7 +22,7 @@ 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
 KimTeaHee528
 
 https://github.com/KimTeaHee528/html_tr/blob/main/.gitignore
-에서 코드 바꾸기
+에서 코드 바꾸기 
 .settings/
 .git/
 .project
