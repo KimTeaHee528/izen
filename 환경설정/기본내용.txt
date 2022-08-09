@@ -123,7 +123,7 @@ Fontawsome
 
 
 6. 엔드포인트 복사해서 어디다 저장해두기(kthdb1.co1rir7dwdnn.ap-northeast-2.rds.amazonaws.com)
-7. 워크밴치에 복사한거 넣어서 연결
+7. erd에 복사한거 넣어서 연결
 
 
 
