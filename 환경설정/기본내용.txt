@@ -11,7 +11,7 @@ d - 데이터 저장(factory & factory_down폴더 만들기)
 팀뷰어(spm528@naver.com/!/김태희0528)
 슬랙
 git / github(g메일)
-오라클 - 자바11 (spmm/Sl!)
+오라클 - 자바11 (spmm/Sl!) 
 수강생 출석부
 https://docs.google.com/spreadsheets/d/1y-gGnv31PZ_PxTU_yuc_QGcT3cuIGwyejW0YZ4ubyOQ/edit#gid=0
 
