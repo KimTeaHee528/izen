@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/1y-gGnv31PZ_PxTU_yuc_QGcT3cuIGwyejW0YZ4ub
 https://github.com/settings/tokens 에서 토큰 생성
 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
 KimTeaHee528
-
+ 
 https://github.com/KimTeaHee528/html_tr/blob/main/.gitignore
 에서 코드 바꾸기
 .settings/
