@@ -147,8 +147,6 @@ https://codepen.io/jangka44/pen/vbGoBm
 Jenkins
 
 
-
-
 -------------웹 서버 내용--------------
 웹 오픈소스(아파치 우리는 안씀)
 WAS(톰캣)
