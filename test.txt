@@ -1,8 +1,4 @@
 11111
 22222
-<<<<<<< HEAD
 33333
 44444
-=======
-33333
->>>>>>> branch 'main' of https://github.com/KimTeaHee528/izen.git
